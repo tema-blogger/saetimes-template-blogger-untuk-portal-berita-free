@@ -1,4 +1,4 @@
-SaeTimes Free v1.0.12
+SaeTimes Free v1.0.13
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
