@@ -1,5 +1,11 @@
 # Changelog
 
+## Free 1.0.14 — 2026-11-17
+
+- Kredit SaeTimes Free dipulihkan jika terhapus, berubah, atau disembunyikan.
+- Perubahan pada kredit, penanda edisi Free, CSS inti, atau skrip inti menampilkan pemberitahuan dengan tautan ke temablogger.com.
+- Penanda dan pengaturan gadget tetap dipertahankan; versi Premium tidak berubah.
+
 ## Free 1.0.13 — 2026-11-16
 
 - Gambar berita menyesuaikan ukuran tampilan dan konten utama diprioritaskan.
