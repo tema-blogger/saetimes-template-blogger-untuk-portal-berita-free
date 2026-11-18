@@ -1,4 +1,4 @@
-SaeTimes Free v1.0.14
+SaeTimes Free v1.0.15
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
@@ -8,3 +8,5 @@ Premium: https://www.temablogger.com/2026/10/saetimes-template-blogger-premium-u
 Upgrade tanpa menimpa pengaturan: unduh cadangan XML dari Blogger, gunakan fitur pembaruan XML yang sudah dipakai pada dashboard pelanggan, kemudian pasang hasilnya. Simpan backup.
 
 Kredit Tema Blogger, penanda edisi Free, dan kode inti tema wajib tetap ada. Jika berubah, kredit dipulihkan dan tautan ke temablogger.com ditampilkan. Pengaturan normal melalui Tata Letak tidak memicu pemberitahuan.
+
+Pembaruan Free: cadangkan XML tema yang terpasang. Jalankan python UPDATE-FREE.py backup.xml SaeTimes-v1.0.15-Free.xml hasil-update.xml, lalu unggah hasil-update.xml. Simpan cadangan asli.

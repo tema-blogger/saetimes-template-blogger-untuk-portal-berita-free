@@ -8,7 +8,7 @@ Template Blogger portal berita responsif. Edisi Free untuk mencoba tampilan dan 
 
 ## Unduh dan demo
 
-- [Unduh SaeTimes Free v1.0.14](SaeTimes-v1.0.14-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
+- [Unduh SaeTimes Free v1.0.15](SaeTimes-v1.0.15-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
 - [Lihat demo produk](https://saetimes.temablogger.com/) (demo produk lengkap, bukan demo pembatasan Free).
 - [Beli SaeTimes Premium](https://www.temablogger.com/2026/10/saetimes-template-blogger-premium-untuk-portal-berita.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
@@ -33,6 +33,10 @@ Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com
 - Pengaturan konten, logo, menu, warna dan gadget selain bagian terkunci tetap mengikuti kemampuan masing-masing tema.
 - Untuk membuka pengaturan iklan dan kredit yang tersedia pada produk, beli dan aktifkan versi Premium.
 
+## Pembaruan Free tanpa kehilangan pengaturan
+
+Edisi Free tetap aktif tanpa pembelian atau kode lisensi. Panel lisensi di Tata Letak menunjukkan identitas TemaBlogger dan tidak menayangkan promosi tersembunyi di situs Anda. Sebelum memperbarui, unduh **Tema → Cadangkan** dari blog yang sedang dipakai. Jalankan `python UPDATE-FREE.py backup.xml SaeTimes-v1.0.15-Free.xml hasil-update.xml`, lalu unggah `hasil-update.xml` melalui Tema → Pulihkan. Alat ini mempertahankan isi, judul, dan visibilitas gadget yang ID-nya sama serta nilai warna Tema Designer. Jika ada gadget tambahan atau jenis gadget berubah, alat berhenti untuk mencegah kehilangan data. Lihat [koleksi template Blogger](https://www.temablogger.com/p/template.html).
+
 ## Pemasangan
 
 1. Unduh file XML Free di atas.
@@ -48,7 +52,7 @@ Penggabungan Free → Premium diperiksa pada berkas XML lokal untuk 16 produk: i
 
 ## Versi dan kredit aset
 
-Edisi Free **1.0.14**, berdasarkan mesin tema Premium **1.0.12**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
+Edisi Free **1.0.15**, berdasarkan mesin tema Premium **1.0.12**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
 
 Ikon Material Design Icons berasal dari [Pictogrammers](https://pictogrammers.com/library/mdi/), dengan lisensi Apache 2.0 untuk aset ikon. Lihat `PICTOGRAMMERS-NOTICE.txt` dan `LICENSE-APACHE-2.0.txt`. Lisensi ikon tidak mengubah ketentuan tema.
 
