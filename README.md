@@ -13,6 +13,10 @@ Template Blogger portal berita responsif. Edisi Free untuk mencoba tampilan dan 
 - [Beli SaeTimes Premium](https://www.temablogger.com/2026/10/saetimes-template-blogger-premium-untuk-portal-berita.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/saetimes-template-blogger-untuk-portal-berita-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Headline berita
